@@ -1,0 +1,17 @@
+{
+  "name": "@deepwork/trello-drag-drop",
+  "version": "1.0.0",
+  "description": "simple trello clone to implement drag and drop functionality",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "Deepak Chandani",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {}
+}
